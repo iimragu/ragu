@@ -1,0 +1,18 @@
+body {
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+#order {
+  height: 100%;
+
+  padding: 10px 20px 20px 20px;
+  border: 2px solid black;
+  background-image: linear-gradient(
+    30deg,
+    rgb(41, 127, 207) 0%,
+    #0e4791 30%,
+    rgb(45, 204, 204) 50%,
+    #5bc78c 80%,
+    rgb(23, 182, 129) 100%
+  );
+}
